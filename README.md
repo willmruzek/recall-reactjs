@@ -1,5 +1,5 @@
 # Recall
-## Written with ReactJS
+**Written with ReactJS**
 
 Test your memory!
 
